@@ -1,0 +1,10 @@
+docker:
+  path: .
+id: 7b1bd4ed-6c96-4e6f-a268-3032ddd39cb1
+name: pendo_guides_project
+resources:
+  path: resources
+template: python
+version: "0.2"
+workflows:
+  path: dags

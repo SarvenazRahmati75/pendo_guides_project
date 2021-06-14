@@ -1,0 +1,11 @@
+boto3
+pyhouse
+requests
+psycopg2-binary
+pandas
+fsspec==0.6.3
+s3fs==0.4.0
+simple-salesforce==1.10.1
+awswrangler
+pyspark
+hvac
